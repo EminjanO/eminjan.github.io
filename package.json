@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/EminjanO/portfolio/issues"
   },
-  "homepage": "hhttps://eminjano.github.io/portfolio/",
+  "homepage": "https://eminjano.github.io/portfolio/",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "node-sass": "^4.13.0"
