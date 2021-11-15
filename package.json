@@ -18,9 +18,7 @@
   },
   "homepage": "https://eminjano.github.io/portfolio/",
   "dependencies": {
-    "node-sass": "^6.0.1"
-  },
-  "devDependencies": {
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^2.2.0",
+    "node-sass": "^4.13.0"
   }
 }
